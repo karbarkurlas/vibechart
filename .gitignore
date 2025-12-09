@@ -22,3 +22,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Env / secrets
+.env
+.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.Rproj.user
+
+# Coverage/outputs
+coverage/
+.nyc_output
+*.coverage
