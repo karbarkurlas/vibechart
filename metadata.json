@@ -1,0 +1,5 @@
+{
+  "name": "Akademik Vibe - Analysis Tool",
+  "description": "A full-stack data analysis platform integrating React, Python, and R for multi-format file processing and statistical visualization.",
+  "requestFramePermissions": []
+}
